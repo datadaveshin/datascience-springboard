@@ -1,1 +1,1 @@
-#Springboard Data Science Intensive Workshop projects
+#Springboard Data Science Intensive
